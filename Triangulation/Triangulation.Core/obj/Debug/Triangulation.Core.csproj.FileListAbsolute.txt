@@ -1,0 +1,5 @@
+C:\Users\Дзарук\Downloads\triangulation-master (3)\triangulation-master\Triangulation\Triangulation.Core\bin\Debug\Triangulation.Core.dll
+C:\Users\Дзарук\Downloads\triangulation-master (3)\triangulation-master\Triangulation\Triangulation.Core\bin\Debug\Triangulation.Core.pdb
+C:\Users\Дзарук\Downloads\triangulation-master (3)\triangulation-master\Triangulation\Triangulation.Core\obj\Debug\Triangulation.Core.dll
+C:\Users\Дзарук\Downloads\triangulation-master (3)\triangulation-master\Triangulation\Triangulation.Core\obj\Debug\Triangulation.Core.pdb
+C:\Users\Дзарук\Downloads\triangulation-master (3)\triangulation-master\Triangulation\Triangulation.Core\obj\Debug\Triangulation.Core.csprojAssemblyReference.cache

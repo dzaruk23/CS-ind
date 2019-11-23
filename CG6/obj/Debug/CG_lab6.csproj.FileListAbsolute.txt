@@ -1,0 +1,9 @@
+C:\Users\Дзарук\Desktop\CG_lab6\bin\Debug\CG_lab6.exe.config
+C:\Users\Дзарук\Desktop\CG_lab6\bin\Debug\CG_lab6.exe
+C:\Users\Дзарук\Desktop\CG_lab6\bin\Debug\CG_lab6.pdb
+C:\Users\Дзарук\Desktop\CG_lab6\obj\Debug\CG_lab6.csprojAssemblyReference.cache
+C:\Users\Дзарук\Desktop\CG_lab6\obj\Debug\CG_lab6.Form1.resources
+C:\Users\Дзарук\Desktop\CG_lab6\obj\Debug\CG_lab6.Properties.Resources.resources
+C:\Users\Дзарук\Desktop\CG_lab6\obj\Debug\CG_lab6.csproj.GenerateResource.cache
+C:\Users\Дзарук\Desktop\CG_lab6\obj\Debug\CG_lab6.exe
+C:\Users\Дзарук\Desktop\CG_lab6\obj\Debug\CG_lab6.pdb
